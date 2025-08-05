@@ -808,6 +808,11 @@ MMC support in u-boot
 
 |
 
+Known issues with SD cards in u-boot
+====================================
+
+Refer to the :ref:`mmc-known-sd-card-issues-label` page.
+
 Steps for working around SD card issues in u-boot
 =================================================
 
